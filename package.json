@@ -18,7 +18,7 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "start": "node-dev app.js",
+    "start": "node app.js",
     "test": "mocha test/*/*.js"
   }
 }
