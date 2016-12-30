@@ -5,3 +5,7 @@ npm-debug.log
 
 /neo4j-*
 /neo4j
+.idea/encodings.xml
+.idea/modules.xml
+.idea/nodeneo4jheroku.iml
+.idea/workspace.xml
